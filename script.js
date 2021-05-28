@@ -258,7 +258,7 @@ function coba8() {
      for (var m = 0; m <= i; m++) {
        item += '*';
      }
-     item += '\n';
+     item += '\\n';
    }   console.log(item);
   `);
 }
@@ -291,7 +291,7 @@ function coba9() {
       for (var m = 9; m > i; m--) {
         item += '*';
       }
-      item += '\n';
+      item += '\\n';
     }   console.log(item);
   `);
 }
@@ -319,7 +319,7 @@ function coba10() {
            item += ' #';
          }
        }
-     item += '\n';
+     item += '\\n';
      }   console.log(item);
   `);
 }
