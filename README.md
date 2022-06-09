@@ -1,5 +1,7 @@
 # loop-pattern.github.io
 
+Demo: https://dimaskuy.github.io/loop-pattern.github.io/
+
 Ini adalah kumpulan source code berbagai pola bintang ataupun item-item yang lain dengan menggunakan fungsi loop pada JavaScript. Sebelumnya, terimakasih kepada Sandhika Galih atas ilmu-nya ;)
 
 # Penggunaan
